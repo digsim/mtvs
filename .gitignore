@@ -111,3 +111,7 @@ tvdbdb.db
 *.csv
 *.pyc
 files.txt
+
+# Documentation
+docs/doctrees/
+docs/html/
