@@ -2,7 +2,7 @@
 AdNITC - Calendar to ITC script
 ==========================================================
 
-The `missingtvshows`_ verifies the locally available episodes for all Kodi Series
+The `missingtvshows`_ verifies the locally available episodes for all Kodi Series. Yes
 
 ----
 
